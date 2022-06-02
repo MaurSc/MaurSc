@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px>, I'm Mauro</h1>
+<h1 align="center">Hi!, I'm Mauro</h1>
 <h3 align="center">I'm passionate about Web development and technology</h3></br>
 
 - 📫 Contact me **maurocalvo33@gmail.com**

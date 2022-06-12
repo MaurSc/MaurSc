@@ -38,12 +38,6 @@
 <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank"> 
   <img src="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/img/banner-logo.svg" alt="spring" width="50" height="40"/> 
 </a>
-<a href="https://docs.python.org/3" target="_blank"> 
-  <img src="https://docs.python.org/3/_static/py.svg" alt="python" width="30" height="30"/> 
-</a>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> 
-  <img src="https://flask.palletsprojects.com/en/2.1.x/_static/flask-icon.png" alt="flask" width="30" height="30"/> 
-</a>
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>

@@ -51,9 +51,4 @@
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="git" width="35" height="35"/> 
 </a>
 </p>
- 
 
-
-
----
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaurSc&show_icons=true&locale=en&&count_private=true&theme=dark" alt="goitiarodrigo"  /></p>
